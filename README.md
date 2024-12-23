@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hello, I'm **Vishvas Solanki** 👋
 
-<!--
-**anon1277/anon1277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate Software Developer with experience in various technologies. I enjoy building web applications and solving complex problems using my skills. 
 
-Here are some ideas to get you started:
+## 📞 Contact Information
+- **LinkedIn**: [Vishvas Solanki](https://www.linkedin.com/in/vishvas-solanki-293587192)
+- **GitHub**: [anon1277](https://github.com/anon1277)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Backend Development**: Laravel, Node.js, PHP
+- **Frontend Development**: HTML, CSS, JavaScript, jQuery, Bootstrap , Next Js ,React Js
+- **Database**: MySQL, MongoDB
+- **DevOps**: Code Deployment, Git, GitHub
+- **Cybersecurity**: Ethical Hacking, Cybersecurity practices
+- **Tools**: Postman, Linux, WordPress
+
+## 💻 Projects
+Here are some of the exciting projects I've worked on:
+
+- [Netbookflix](#) - Laravel & Next.js
+- [Suhora](#) - Node.js & React.js
+- [Ausape](#) - Laravel & WordPress
+- [HRMS](#) - Laravel
+- [Pesach](#) - Laravel Event Management System
+- [Enterprise MonKey](#) - ZOHo
+- [Network Count](#) - Laravel
+- [College Management System](#) - PHP
+- [Shreerakhi](#) - WooCommerce & ERPNext Integration
+- [Network Threads Hunting](#) - Cybersecurity Project
+- [Valuation ERP](#) - Laravel
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anon1277&show_icons=true&hide_title=true)
+
+## 📬 Let's Connect!
+Feel free to reach out to me via LinkedIn, or check out my repositories for more of my work.
+
+---
+
+Thank you for visiting my profile! 😊

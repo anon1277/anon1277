@@ -30,7 +30,6 @@ Here are some of the exciting projects I've worked on:
 - [Valuation ERP](#) - Laravel
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anon1277&show_icons=true&count_private=true&hide_title=true&theme=radical&hide=prs&show_owner=true)
 
 p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anon1277&show_icons=true&locale=en&layout=compact" alt="anon1277" /></p>
 

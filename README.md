@@ -32,6 +32,11 @@ Here are some of the exciting projects I've worked on:
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anon1277&show_icons=true&count_private=true&hide_title=true&theme=radical&hide=prs&show_owner=true)
 
+p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anon1277&show_icons=true&locale=en&layout=compact" alt="anon1277" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anon1277&show_icons=true&locale=en" alt="anon1277" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anon1277&" alt="anon1277" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anon1277&layout=compact&langs_count=10)
 
